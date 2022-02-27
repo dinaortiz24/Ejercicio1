@@ -1,0 +1,2 @@
+mensaje = "Bienvenido"
+print(mensaje)
